@@ -1,2 +1,2 @@
 # Computer-Networks-Lab
-SPPU SE Computer Engg Computer Networks Lab Assignments 
+SPPU TE Computer Engg Computer Networks Lab Assignments 
